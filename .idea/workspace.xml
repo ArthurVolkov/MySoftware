@@ -83,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Welcome()">
+  <component name="RunManager" selected="Python.click()">
     <configuration name="Welcome()" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MySoftware" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,8 +128,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Welcome()" />
         <item itemvalue="Python.click()" />
+        <item itemvalue="Python.Welcome()" />
       </list>
     </recent_temporary>
   </component>
